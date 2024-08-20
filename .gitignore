@@ -4,7 +4,4 @@ __pycache__/
 *.env
 *.log
 *.idea
-<<<<<<< HEAD
-=======
 
->>>>>>> update gitignore
